@@ -1,0 +1,19 @@
+{
+  "name": "klarun",
+  "owner": {
+    "name": "Klarun",
+    "url": "https://klarun.app"
+  },
+  "metadata": {
+    "description": "Klarun plugins for Claude: the Klarun AI connector and a skill on using it."
+  },
+  "plugins": [
+    {
+      "name": "klarun",
+      "source": "./plugins/klarun",
+      "description": "Search your company's reports and data assets, read teams, OKRs, lineage, FinOps budget and actuals and Copilot adoption, and, when your company allows it, add and update them. Every answer follows your own Klarun roles.",
+      "homepage": "https://klarun.app/en/docs#ai-connector",
+      "category": "productivity"
+    }
+  ]
+}

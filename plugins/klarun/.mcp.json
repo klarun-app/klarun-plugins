@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "klarun": {
+      "type": "http",
+      "url": "https://klarun.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "klarun",
+  "version": "1.0.0",
+  "description": "Klarun for Claude: search your company's reports and data assets, read teams, OKRs, lineage, FinOps budget and actuals and Copilot adoption, and, when your company allows it, add and update them. Every answer follows your own Klarun roles.",
+  "author": {
+    "name": "Klarun",
+    "url": "https://klarun.app"
+  },
+  "homepage": "https://klarun.app/en/docs#ai-connector",
+  "keywords": ["data-governance", "power-bi", "finops", "okrs", "microsoft-fabric"]
+}
